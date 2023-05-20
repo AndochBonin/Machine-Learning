@@ -1,5 +1,4 @@
 # machine-learning
 
-analysis of hotel bookings data sheet.
+Repo containing some machine learning practice notebooks
 
-shows country distribution, hotel type, deposit type etc
